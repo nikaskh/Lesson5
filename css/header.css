@@ -1,0 +1,12 @@
+.logo {
+    max-width: 100px;
+    display: inline-block;
+    vertical-align: middle;
+}
+header ul {
+    display: inline-block;
+}
+.header-nav-li{
+    display: inline-block;
+    margin-right: 20px;
+}

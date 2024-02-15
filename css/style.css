@@ -1,0 +1,44 @@
+@import url("//cdn.web-fonts.ge/fonts/archyedt-thin/css/archyedt-thin.min.css");
+
+body {
+    max-width: 1920px;
+    font-family: "ArchyEDT-Thin", sans-serif;
+}
+ul {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
+.slaideri {
+    max-width: 1640px;
+    width: 100%;
+}
+section{
+    max-width: 1641px;
+}
+.second-section-div{
+    max-width: 483px;
+    width: 100%;
+    box-shadow: 0px 3px 6px #00000029;
+    margin-right: 30px;
+}
+.second-section-article {
+    display: inline-block;
+    margin-bottom: 20px;
+}
+.article-h2{
+    margin-top: 50px;
+    margin-bottom: 123px;
+}
+.second-section-article h3, p{
+    padding: 10px;
+}
+.aricle-child-div {
+    text-align: right;
+    padding-right: 30px;
+}
+.load-more {
+    text-align: center;
+    margin-top: 145px;
+}
