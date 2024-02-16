@@ -1,8 +1,6 @@
-@import url("//cdn.web-fonts.ge/fonts/archyedt-thin/css/archyedt-thin.min.css");
-
 body {
     max-width: 1920px;
-    font-family: "ArchyEDT-Thin", sans-serif;
+    font-family: 'ArchyEDT-Thin';
 }
 ul {
     list-style: none;
@@ -18,7 +16,7 @@ section{
     max-width: 1641px;
 }
 .second-section-div{
-    max-width: 483px;
+    max-width: 400px;
     width: 100%;
     box-shadow: 0px 3px 6px #00000029;
     margin-right: 30px;
@@ -37,8 +35,13 @@ section{
 .aricle-child-div {
     text-align: right;
     padding-right: 30px;
+    padding-bottom: 10px;
 }
 .load-more {
     text-align: center;
-    margin-top: 145px;
+    margin-top: 100px;
+}
+.second-section-article img {
+    max-width: 483px;
+    width: 100%;
 }
